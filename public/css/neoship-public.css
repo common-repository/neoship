@@ -1,0 +1,8 @@
+/**
+ * All of the CSS for your public-facing functionality should be
+ * included in this file.
+ */
+
+#packeta_id, #parcelshop_id, #glsparcelshop_id, #dpdparcelshop_id {
+    display: none;
+}
